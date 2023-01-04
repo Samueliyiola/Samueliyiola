@@ -1,8 +1,8 @@
 Hi- 👋 Hi, I’m @Samueliyiola
 - 👀 I’m interested in web development
-- 🌱 I’m currently learning javascript 
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me samueliyiola13@gmail.com 
+- 🌱 I’m currently learning javascript(node.js) for backend web development and Data Structures and algorithm(Java)
+- 💞️ I’m looking to collaborate on projects that would help enhance my knowledge on the above fields and even more.
+- 📫 How to reach me samueliyiola13@gmail.com// twitter.com/samiyiola
 
 <!---
 Samueliyiola/Samueliyiola is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
