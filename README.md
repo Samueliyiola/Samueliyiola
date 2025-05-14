@@ -3,7 +3,7 @@
 
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/116207.../programmer.gif">
 
-- 🔭 I’m currently working on **[Your Project]**
+
 - 🌱 I’m currently learning **Backend Web Development**
 - 💬 Ask me about **[JavaScript, TypeScript, Node.js, etc.]**
 - 📫 How to reach me: **samueliyiola13@gmail.com**
