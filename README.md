@@ -1,41 +1,53 @@
-<h1 align="center">Hi 👋, I'm Samuel</h1>
-<h3 align="center">A passionate Backend Software Engineer</h3>
-
-<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/116207.../programmer.gif">
-
-
-- 🌱 I’m currently learning **Backend Web Development**
-- 💬 Ask me about **[JavaScript, TypeScript, Node.js, etc.]**
-- 📫 How to reach me: **samueliyiola13@gmail.com**
-- ⚡ Fun fact: **I enjoy solving problems**
-
----
-
-### 🛠️ Languages and Tools:
-![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
-![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=node.js)
-![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat-square&logo=mongodb)
-<!-- Add more as needed -->
-
----
-
-### 📊 GitHub Stats:
+<!-- Profile Header -->
+<h1 align="center">Hey there 👋, I'm Samuel</h1>
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Samueliyiola&show_icons=true&theme=radical" alt="stats"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Samueliyiola&layout=compact&theme=radical" alt="langs"/>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=F7695B&center=true&vCenter=true&width=435&lines=Junior+Developer+%E2%9C%A8;Lover+of+clean+code+and+coffee+%F0%9F%8D%B5;Always+learning%2C+always+building+%F0%9F%9A%80" alt="Typing SVG" />
 </p>
 
 ---
 
-### 🏆 GitHub Trophies:
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Samueliyiola&theme=radical" alt="trophies"/>
-</p>
+<!-- About Me -->
+### 🙋‍♂️ About Me
+- 🎓 I'm a software engineer passionate about turning ideas into real-world tech.
+- 🌱 Currently learning **TypeScript**, **MongoDB**, **Redis**, **SQL**,**ExpressJS** and **real-time systems**.
+- 🛠️ I love building things with **Node.js**, **Express**, and **JavaScript**.
+- 🧠 Exploring backend engineering, automation, and product-focused development.
+- 🌍 I'm also into football, music, and reading cool stuff on the internet.
 
 ---
 
-### 🔗 Connect with me:
+<!-- Tech Stack (Colorful badges) -->
+### 🔧 Tech & Tools I Use
 <p align="left">
-<a href="www.linkedin.com/in/samueliyiola123" target="blank"><img align="center" src="https://cdn-icons-png.flaticon.com/512/174/174857.png" alt="linkedin" height="30" width="30" /></a>
-<a href="https://twitter.com/samiyiola" target="blank"><img align="center" src="https://cdn-icons-png.flaticon.com/512/733/733579.png" alt="twitter" height="30" width="30" /></a>
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white"/>
+  <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white"/>
 </p>
+
+---
+
+<!-- Projects -->
+### 💡 Projects I'm Proud Of
+Here are some cool things I've been building:
+
+- 🔐 **[Ride-Hailing API](https://github.com/Samueliyiola/Ride-Hailing-Platform-Api)** — A backend system for real-time driver-rider matching using Node.js and MySQL.
+- 🎓 **[Factory Distribution Application](https://github.com/Samueliyiola/Factory-Distribution-Application)** — An application for distribution of goods in a factory.
+- 💬 **[Real-time Chat App](https://github.com/Samueliyiola/Social-Media-Application)** — DMs and group chats with Socket.IO and TypeScript.
+
+> 💬 Want more? Explore my pinned repos 👇
+
+---
+
+<!-- Let's Connect -->
+### 📫 Let's Connect!
+<p align="left">
+  <a href="mailto:samueliyiola13@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+  <a href="https://linkedin.com/in/samueliyiola123"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+  <a href="https://twitter.com/samiyiola"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"/></a>
+</p>
+
+
+
