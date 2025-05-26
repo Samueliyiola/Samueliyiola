@@ -1,8 +1,7 @@
 <!-- Profile Header -->
 <h1 align="center">Hey there 👋, I'm Samuel</h1>
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=F7695B&center=true&vCenter=true&width=435&lines=Junior+Developer+%E2%9C%A8;Lover+of+clean+code+and+coffee+%F0%9F%8D%B5;Always+learning%2C
-    +always+building+%F0%9F%9A%80" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com font=Fira+Code&size=24&duration=3000&pause=1000&color=F7695B&center=true&vCenter=true&width=435&lines=Junior+Developer+%E2%9C%A8;Lover+of+clean+code+and+coffee+%F0%9F%8D%B5;Always+learning%2C+always+building+%F0%9F%9A%80" alt="Typing SVG" />
 </p>
 
 ---
