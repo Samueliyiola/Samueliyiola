@@ -38,6 +38,12 @@ Here are some cool things I've been building:
 - 🎓 **[Factory Distribution Application](https://github.com/Samueliyiola/Factory-Distribution-Application)** — An application for distribution of goods in a factory.
 - 💬 **[Real-time Chat App](https://github.com/Samueliyiola/Social-Media-Application)** — DMs and group chats with Socket.IO and TypeScript.
 
+<!-- GitHub Streak Stats -->
+### 🔥 My GitHub Streak
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=Samueliyiola&theme=tokyonight&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" alt="Samuel's GitHub streak" />
+</p>
+
 > 💬 Want more? Explore my pinned repos 👇
 
 ---
